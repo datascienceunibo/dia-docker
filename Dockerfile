@@ -11,5 +11,8 @@ RUN conda install -y \
       scikit-surprise=1.1.0 \
       nltk=3.4.5 \
       flask=1.1.1 \
-      tensorflow=1.15.0 \
-      keras=2.2.4 \
+      xgboost=0.90 \
+      lightgbm=2.3.0 \
+      catboost=0.20.2
+#     tensorflow=1.15.0 \
+#     keras=2.2.4
