@@ -13,6 +13,6 @@ RUN conda install -y \
       flask=1.1.1 \
       xgboost=0.90 \
       lightgbm=2.3.0 \
-      catboost=0.20.2
-#     tensorflow=1.15.0 \
-#     keras=2.2.4
+      catboost=0.20.2 \
+      tensorflow=1.15.0 \
+      keras=2.2.4
